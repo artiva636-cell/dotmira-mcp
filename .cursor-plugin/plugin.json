@@ -1,0 +1,22 @@
+{
+  "name": "dotmira",
+  "description": "Search 30,000+ web effects, animations, UI components and templates (React, Tailwind, HTML/CSS, Vue) and get the code of an element with its author, source and license. Remote MCP server, read-only; requires a Dotmira account.",
+  "version": "1.0.0",
+  "author": { "name": "Dotmira", "email": "support@dotmira.ru" },
+  "homepage": "https://dotmira.com/en/developers",
+  "repository": "https://github.com/artiva636-cell/dotmira-mcp",
+  "keywords": ["mcp", "ui-components", "web-effects", "animations", "react", "tailwind", "shadcn", "design"],
+  "logo": "assets/logo.svg",
+  "mcpServers": ".mcp.json",
+  "variables": {
+    "type": "object",
+    "properties": {
+      "DOTMIRA_TOKEN": {
+        "type": "string",
+        "title": "Dotmira token",
+        "description": "Personal access token (dtm_…) from your Dotmira account, section “MCP & registry”"
+      }
+    },
+    "required": ["DOTMIRA_TOKEN"]
+  }
+}

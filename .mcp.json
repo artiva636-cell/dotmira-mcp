@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "dotmira": {
+      "url": "https://dotmira.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${DOTMIRA_TOKEN}"
+      }
+    }
+  }
+}
