@@ -16,7 +16,7 @@ Dotmira has an API. It comes as two programmatic interfaces: an **MCP server** f
 | Sign-in | OAuth 2.1 (sign in with your Dotmira account) or a personal token (Authorization: Bearer dtm_…) |
 | Tools | `search_effects`, `get_effect`, `list_categories`, `get_preview` — read-only |
 | Registry | `https://dotmira.com/r/{name}.json`, namespace @dotmira, shadcn registry format |
-| Catalog | more than 31,000 web effects, animations, UI components and templates: React, Tailwind, HTML/CSS, TypeScript, Vue |
+| Catalog | 16,000+ web effects, animations, UI components and templates: React, Tailwind, HTML/CSS, TypeScript, Vue |
 | Not available | a REST or GraphQL API, an SDK, an OpenAPI description, a CLI of our own |
 
 ## MCP server

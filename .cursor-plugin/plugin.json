@@ -1,6 +1,6 @@
 {
   "name": "dotmira",
-  "description": "Search 30,000+ web effects, animations, UI components and templates (React, Tailwind, HTML/CSS, Vue) and get the code of an element with its author, source and license. Remote MCP server, read-only; requires a Dotmira account.",
+  "description": "Search 16,000+ web effects, animations, UI components and templates (React, Tailwind, HTML/CSS, Vue) and get the code of an element with its author, source and license. Remote MCP server, read-only; requires a Dotmira account.",
   "version": "1.0.0",
   "author": { "name": "Dotmira", "email": "support@dotmira.ru" },
   "homepage": "https://dotmira.com/en/developers",

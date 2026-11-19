@@ -15,7 +15,7 @@
 | Вход | через аккаунт Dotmira (OAuth 2.1) или по личному токену (Authorization: Bearer dtm_…) |
 | Инструменты | `search_effects`, `get_effect`, `list_categories`, `get_preview` — только чтение |
 | Реестр | `https://dotmira.ru/r/{name}.json`, имя @dotmira, формат реестра shadcn |
-| Каталог | более 31 000 веб-эффектов, анимаций, UI-компонентов и шаблонов: React, Tailwind, HTML/CSS, TypeScript, Vue |
+| Каталог | 16 000+ веб-эффектов, анимаций, UI-компонентов и шаблонов: React, Tailwind, HTML/CSS, TypeScript, Vue |
 | Чего нет | REST- и GraphQL-API, SDK, описания OpenAPI, собственного CLI |
 
 ## MCP-сервер
