@@ -3,6 +3,8 @@
 
 # Dotmira MCP server and API
 
+[![Dotmira MCP connector](https://glama.ai/mcp/connectors/com.dotmira/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/com.dotmira/catalog)
+
 Dotmira has an API. It comes as two programmatic interfaces: an **MCP server** for AI assistants, AI agents and code editors — Claude, ChatGPT, Cursor, VS Code and any other MCP client — and a **shadcn-compatible component registry** for installing from the command line. Your assistant finds the right web effect, animation or UI component in the catalog and receives its code with the author, source and license.
 
 [Account → MCP & registry](https://dotmira.com/en/account#mcp)
